@@ -6,7 +6,6 @@ I'm a final-year MCA student at APJ Abdul Kalam Technological University, passio
 - 🔭 **I’m currently working on:** [Sentinel](https://github.com/vishnudharsh/Sentinel) - A Geospatial Crime Analytics System.
 - 👯 **I’m looking to collaborate on:** Open-source React or Python data science projects.
 - 🎓 **Ask me about:** React Hooks, MongoDB Aggregations, Random Forest algorithms, and Folium maps.
-- ⚡ **Fun fact:** I can debug backend APIs all night, but I relax by playing Real Cricket 24.
 
 ---
 
